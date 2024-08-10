@@ -1,0 +1,14 @@
+{
+  "name": "calculadora-juros",
+  "version": "1.0.0",
+  "description": "uma aplicação para a facilitação no cálculo de juros",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "juliofariasdev",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "type": "module"
+}
